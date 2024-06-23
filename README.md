@@ -9,7 +9,7 @@ This comprehensive analysis brings forward insights from the 2023 Data Analyst J
 
 Driven to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others' work to find optimal jobs.
 
-Data hails from Mr. Luke Barousse's [SQL Course](https://www.lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
+Data hails from Mr. Luke Barousse's [SQL Course](https://www.lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills. I have made some changes to the original data according to Pg Admin 4 as it is the IDE I have used throughout this project. You can find the original data if you wish [here](https://github.com/Ankan2508/SQL_Project_Data_Job_Analysis).
 
 ## The questions I wanted to answer through my SQL queries were:
 
